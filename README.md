@@ -1,5 +1,9 @@
 # 💫Um pouco sobre mim:
-⌨️Atualmente estudando desenvolvimento Full Stack<br>👨‍🚀constantemente em busca de mais conhecimentos<br>☁️Aluno da parceria entre a Growdev e a Sicred<br>🧑‍🎓Formado em Mecânico de precisão <br>🏍️Apaixonado por motos
+⌨️Atualmente estudando desenvolvimento Full Stack<br>
+👨‍🚀constantemente em busca de mais conhecimentos<br>
+☁️Aluno da parceria entre a Growdev e a Sicred<br>
+🧑‍🎓Formado em Mecânico de precisão <br>
+🏍️Apaixonado por motos
 
 
 ## 🌐 Redes sociais:
@@ -11,5 +15,3 @@
 # 📊 Meus status:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Be0208&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top repositórios do Be
-![](https://github-contributor-stats.vercel.app/api?username=Be0208&limit=5&theme=dark&combine_all_yearly_contributions=true)
