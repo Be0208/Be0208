@@ -1,4 +1,4 @@
-# 💫Um pouco sobre mim:
+# 🥇Um pouco sobre mim:
 ⌨️Atualmente estudando desenvolvimento Full Stack<br>
 👨‍🚀constantemente em busca de mais conhecimentos<br>
 ☁️Aluno da parceria entre a Growdev e a Sicred<br>
