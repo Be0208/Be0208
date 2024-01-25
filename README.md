@@ -7,13 +7,17 @@
 
 
 ## 🌐 Redes sociais:
-<a href="https://api.whatsapp.com/send?phone=5551996816868" target="_blank">
+<div display="inline">
+  <a href="https://api.whatsapp.com/send?phone=5551996816868" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/558870554871070720) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dartora__) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-dartora-550376291/) 
+
+</div>
+
 
 # 💻 Habilidades:
 <div display="inline">
