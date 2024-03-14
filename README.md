@@ -24,8 +24,11 @@
 </div>
 
 # 📊 Meus status:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Be0208&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<div align="left">
+  <a href="https://github.com/marccelo125">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marccelo125&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/_>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marccelo125&layout=compact&langs_count=7&theme=dark"/_>
+</div>
 
 ## 🌐 Redes sociais:
 <div display="inline">
