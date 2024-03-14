@@ -13,11 +13,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,php,," />
   </a>
 </p>
-  
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -27,6 +22,7 @@
 </div>
 
 # 📊 Meus status:
+
 <div align="left">
   <a href="https://github.com/Be0208">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Be0208&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -34,8 +30,8 @@
 </div>
 
 ## 🌐 Redes sociais:
-<div display="inline">
-  
+<div display="flex">
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=+bernardintd@gmail.com) 
 
 [![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551996816868) 
