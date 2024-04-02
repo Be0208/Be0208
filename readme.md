@@ -1,6 +1,6 @@
 # 🥇Um pouco sobre mim:
 ⌨️Atualmente estudando desenvolvimento de software Full Stack<br>
-☁️Aluno da parceria entre a Growdev e a biografia.md<br>
+☁️Aluno da parceria entre a Growdev e a Sicredi Pioneira<br>
 👨‍🚀constantemente em busca de mais conhecimentos<br>
 🧑‍🎓Formado em Mecânico de Usinagem de precisão <br>
 🏍️Apaixonado por motos
