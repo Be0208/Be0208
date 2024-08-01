@@ -9,7 +9,8 @@
 # 💻 Habilidades:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,vuetify,php,laravel," />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,vuetify," />
+    <img src="https://skillicons.dev/icons?i=php,laravel," />
   </a>
 </p>
 
