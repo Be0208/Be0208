@@ -19,7 +19,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jvue,vuetify," />
+    <img src="https://skillicons.dev/icons?i=vue,vuetify," />
   </a>
 </p>
 
