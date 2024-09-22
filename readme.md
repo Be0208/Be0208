@@ -14,7 +14,12 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,vuetify," />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jvue,vuetify," />
   </a>
 </p>
 
