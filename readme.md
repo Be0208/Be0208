@@ -2,7 +2,7 @@
 ⌨️Atualmente estudando desenvolvimento de software Full Stack Despertar.dev - Sicredi<br>
 ☁️Aluno da parceria entre a Growdev e a Sicredi Pioneira<br>
 🧠Constantemente em busca de mais conhecimentos<br>
-🏍️Apaixonado por motos
+🏍️Apaixonado por mecanica e programação
 
 
 
