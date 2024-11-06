@@ -14,6 +14,11 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=C#,.NET," />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript" />
   </a>
 </p>
