@@ -9,46 +9,36 @@
 # 💻 Habilidades:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet," />  
-    <img src="https://skillicons.dev/icons?i=php,laravel," />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,,php,laravel" />  
   </a>
 </p>
-<!-- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel," />
-  </a>
-</p> -->
-<!-- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
-  </a>
-</p> -->
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vuetify," /> 
-    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=vue,vuetify,,javascript,typescript" /> 
   </a>
 </p>
 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css," />
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,,bootstrap" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode, visualstudio, rider" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,mysql,dbeaver" />
+    <img src="https://skillicons.dev/icons?i=github,git,,mysql,azure" />
   </a>
 </p>
 </div>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,,rider" />
+  </a>
+</p>
+
 
 ## 🌐 Redes sociais:
 <div display="flex">
