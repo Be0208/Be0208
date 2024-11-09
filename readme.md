@@ -17,14 +17,14 @@
     <img src="https://skillicons.dev/icons?i=php,laravel," />
   </a>
 </p> -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript" />
   </a>
-</p>
+</p> -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vuetify," />
+    <img src="https://skillicons.dev/icons?i=vue,vuetify," /> <img src="https://skillicons.dev/icons?i=javascript,typescript" />
   </a>
 </p>
 
