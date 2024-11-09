@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider" /> <img src="https://skillicons.dev/" /> <img src="https://skillicons.dev/icons?i=github,git,mysql,apache,dbeaver" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider" /> <img src="https://skillicons.dev/icons?i=github,git,mysql,dbeaver" />
   </a>
 </p>
 </div>
