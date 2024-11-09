@@ -9,7 +9,8 @@
 # 💻 Habilidades:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet," />  <img src="https://skillicons.dev/icons?i=php,laravel," />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet," />  
+    <img src="https://skillicons.dev/icons?i=php,laravel," />
   </a>
 </p>
 <!-- <p align="left">
@@ -24,7 +25,8 @@
 </p> -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vuetify," /> <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=vue,vuetify," /> 
+    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
   </a>
 </p>
 
@@ -38,7 +40,8 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider" /> <img src="https://skillicons.dev/icons?i=github,git,mysql,dbeaver" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider" /> 
+    <img src="https://skillicons.dev/icons?i=github,git,mysql,dbeaver" />
   </a>
 </p>
 </div>
