@@ -9,14 +9,14 @@
 # 💻 Habilidades:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet," />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet," />  <img src="https://skillicons.dev/icons?i=php,laravel," />
   </a>
 </p>
-<p align="left">
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel," />
   </a>
-</p>
+</p> -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript" />
