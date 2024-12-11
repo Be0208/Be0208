@@ -35,7 +35,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,,rider,ravendb" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,,rider,raven" />
   </a>
 </p>
 
