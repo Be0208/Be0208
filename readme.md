@@ -1,9 +1,7 @@
-# 💡Um pouco sobre mim:
-⌨️Atualmente estudando desenvolvimento de software Full Stack Despertar.dev - Sicredi<br>
-☁️Aluno da parceria entre a Growdev e a Sicredi Pioneira<br>
+#💻Um pouco sobre mim:
+⌨️Atualmente trabalhando com desenvolvimento de software Full Stack com foco em C# .Net8<br>
+☁️Formando Engenharia de Software na Universidade Lasalle<br>
 🧠Constantemente em busca de mais conhecimentos<br>
-🏍️Apaixonado por mecanica e programação
-
 
 
 # 💻 Habilidades:
