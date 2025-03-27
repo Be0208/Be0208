@@ -1,10 +1,10 @@
-#💻Um pouco sobre mim:
+# 💻Um pouco sobre mim:
 ⌨️Atualmente trabalhando com desenvolvimento de software Full Stack com foco em C# .Net8<br>
 ☁️Formando Engenharia de Software na Universidade Lasalle<br>
 🧠Constantemente em busca de mais conhecimentos<br>
 
 
-# 💻 Habilidades:
+# 👨‍💻 Habilidades:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,,php,laravel" />  
